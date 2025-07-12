@@ -35,7 +35,7 @@ forge install https://github.com/Uniswap/periphery-next
 ```
 
 If you are building hooks, it may be useful to inherit from the `BaseHook` contract:
-
+if
 ```solidity
 
 import {BaseHook} from 'periphery-next/contracts/BaseHook.sol';
